@@ -2,6 +2,7 @@ using System;
 
 namespace WebApi.Models
 {
+    // There are six main components, or parts, of weather. They are temperature, atmospheric pressure, wind, humidity, precipitation, and cloudiness. 
     public class WeatherForecast
     {
         public DateTime Date { get; set; }

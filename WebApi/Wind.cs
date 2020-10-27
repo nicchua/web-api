@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace WebApi
 {
-    public class Test
+    public class Wind
     {
     }
 }
